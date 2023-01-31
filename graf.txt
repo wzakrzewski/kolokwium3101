@@ -1,0 +1,17 @@
+zakrz@WojtekLaptop MINGW64 ~/Onedrive/Pulpit/kolokwiumskw (master)
+$ git log --all --oneline --decorate --graph
+*   ec9524d (HEAD -> master) Merge branch 'stronahtmlfeature'
+|\
+| * 18568e2 (stronahtmlfeature) dodanie zmodyfikowanego pliku strona.txt
+| * 10a10c6 dodanie zmienionego pliku strona.txt
+| * 1367d17 dodanie pliku strona.txt
+|/
+* b15052e (lorem_2) dodanie pliku lorem.txt
+*   0f3b472 Merge branch 'lorem_1'
+|\
+| * ca52569 (lorem_1) dodanie pliku lorem.txt
+|/
+* feb8302 zmienienie helloworld na drop database
+* a1b73ab (tag: v1, release/v1, helloworldfeature, dev) dodanie pliku helloworld
+* 3ac38be dodanie pliku .gitignore
+
